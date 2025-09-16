@@ -90,6 +90,8 @@ pm2 save
 
 ## Step 8: Access Your Application
 Visit `http://your-ec2-public-ip` in a browser.
+![f58aaa90-da31-47c0-b689-e41583737015](https://github.com/user-attachments/assets/8b3c3993-6670-42c7-b801-59deece62f60)
+
 
 ## Conclusion
 Your application is now live on AWS EC2! 🎉 For production, consider using **Elastic Load Balancing (ELB)** and **Auto Scaling** for better scalability.
